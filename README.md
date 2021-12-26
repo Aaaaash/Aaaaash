@@ -1,4 +1,6 @@
 
+![Cloud](https://raw.githubusercontent.com/Aaaaash/Aaaaash/main/Cloud.jpg)
+
 **About me**
 
 - 💼 FrontEnd Engineer at [Alibaba](https://www.alibaba.com/)
